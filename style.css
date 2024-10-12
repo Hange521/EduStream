@@ -101,13 +101,14 @@ body {
 .hero h1 {
     font-size: 48px;
     margin-bottom: 20px;
-    color: #black;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+    color: #000000;
 }
 
 .hero p {
     font-size: 24px;
     margin-bottom: 30px;
+    color: #000000;
 }
 
 .hero .cta-btn {
